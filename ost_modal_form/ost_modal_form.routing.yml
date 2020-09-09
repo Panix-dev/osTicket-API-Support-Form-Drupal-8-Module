@@ -1,0 +1,7 @@
+ost_modal_form.ost_modal_form_route:
+  path: 'ost-support'
+  defaults:
+    _form: '\Drupal\ost_modal_form\Form\OsTicketForm'
+    _title: 'Create a support ticket'
+  requirements:
+    _permission: 'access content'

@@ -1,0 +1,89 @@
+.result_message {
+
+}
+.output-submit-message {
+
+}
+#ost-modal-form {
+	margin-bottom: 50px;
+}
+#ost-modal-form .ost-field-wrapper {
+    float: left;
+    width: 48%;
+    margin: 1%;
+    position: relative;
+    padding-bottom: 25px;
+    margin-bottom: 0;
+}
+#ost-modal-form .ost-field-wrapper-message {
+	clear: both;
+	float: none;
+	width: 98%;
+	margin: 0 1%;
+}
+#ost-modal-form .ost-field-wrapper-message textarea {
+    width: 100%;
+    overflow: auto;
+	resize: vertical;
+	border-radius: 5px;
+}
+#ost-modal-form .form-item {
+    float: none;
+    width: 100%;
+    margin: 0;
+    position: relative;
+}
+#ost-modal-form .form-item label {
+    display: inline-block;
+    margin-bottom: ;
+    color: #f05323;
+    font-weight: 500;
+}
+#ost-modal-form .form-item .ajax-progress-throbber {
+	position: absolute;
+	z-index: 1;
+	right: 10px;
+	top: 44px;	
+}
+#ost-modal-form .valid-message-class {
+    position: absolute;
+    bottom: 0;
+    font-size: 12px;
+}
+#ost-modal-form .form-item input {
+    float: none;
+    width: 100%;
+    margin: 0;
+    border-radius: 5px;
+    padding: 10px;
+}
+#ost-modal-form input.form-submit {
+	margin: 1%;
+}
+
+.ost-success-submit {
+	color: #155724;
+	background-color: #d4edda;
+	border-color: #c3e6cb;
+	position: relative;
+	padding: .75rem 1.25rem;
+	margin-bottom: 1rem;
+	border: 1px solid transparent;
+	border-radius: .25rem;
+	margin-left: 1%;
+	margin-top: 20px;
+	margin-right: 1%;
+}
+.ost-error-submit {
+	color: #721c24;
+	background-color: #f8d7da;
+	border-color: #f5c6cb;
+	position: relative;
+	padding: .75rem 1.25rem;
+	margin-bottom: 1rem;
+	border: 1px solid transparent;
+	border-radius: .25rem;
+	margin-left: 1%;
+	margin-top: 20px;
+	margin-right: 1%;
+}

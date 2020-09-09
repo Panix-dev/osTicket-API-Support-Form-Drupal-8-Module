@@ -1,0 +1,7 @@
+ost_key:
+  version: 1.x
+  js:
+    js/ostjs.js: {}   
+  css:
+    theme:
+      css/ostcss.css: {}

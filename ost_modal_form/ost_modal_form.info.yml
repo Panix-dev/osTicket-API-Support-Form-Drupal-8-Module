@@ -1,0 +1,4 @@
+name: osTicket API support form
+description: Custom form that uses the osTicket API to create a new support ticket
+type: module
+core: 8.x
