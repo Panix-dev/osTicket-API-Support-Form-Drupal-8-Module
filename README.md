@@ -16,6 +16,7 @@ A Drupal 8 custom module that created an ajax form that on submit calls a callba
 - [Validation Callback](#validation-callback)
 - [Create Ticket](#create-ticket)
 - [Contact Details](#contact-details)
+- [Inspiration](#inspiration)
 
 
 ## Form Action
@@ -149,3 +150,8 @@ $response->addCommand(
 
 > :iphone: [Facebook](https://www.facebook.com/panagiotis.agapiou)
 
+
+## Inspiration
+
+
+- **[TMIB](https://tmib.net/using-the-osticket-1-8-1-2-api/)**
